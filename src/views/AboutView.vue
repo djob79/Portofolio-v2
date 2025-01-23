@@ -128,18 +128,14 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
-            have 1 year of experience in back-end web development.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
-            has
+            &nbsp; &nbsp; &nbsp; Hi! You probabbly know me by WhosFrench or Nicholas I'm an lua dev and try
+            to make the best of I when I'm trying to and also to give my best in my upcoming projects.
             aesthetic value
           </p>
           <p class="mb-3 fadein-left fadeins-2">
             &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            In addition, I provide a personal touch to your product and ensure that the website catches attention and is
+            In addition, I provide a personal touch to your product and ensure that the project catches attention and is
             easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            please contact the listed contact.
           </p>
         </div>
 
