@@ -8,43 +8,43 @@ export default {
           id: 1,
           name: 'HTML',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/1051/1051277.png',
-          status: 'Advanced'
+          status: 'Learner'
         },
         {
           id: 2,
           name: 'CSS',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/732/732190.png',
-          status: 'Advanced'
+          status: 'Learner'
         },
         {
           id: 3,
           name: 'PHP',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
-          status: 'Advanced'
+          status: 'Intermediate'
         },
         {
           id: 4,
           name: 'Javascript',
           imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
-          status: 'Advance'
+          status: 'Advanced'
         },
         {
           id: 5,
           name: 'Laravel',
           imageUrl: 'https://cdn.worldvectorlogo.com/logos/laravel-2.svg',
-          status: 'Advance'
+          status: 'Learner'
         },
         {
           id: 6,
           name: 'Codeigniter',
           imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
-          status: 'Intermediate'
+          status: 'Learner'
         },
         {
           id: 7,
           name: 'VueJS',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
-          status: 'Intermediate'
+          status: 'Beginner'
         },
         {
           id: 8,
@@ -62,13 +62,13 @@ export default {
           id: 10,
           name: 'Tailwind',
           imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
-          status: 'Advance'
+          status: 'Beginner'
         },
         {
           id: 11,
           name: 'Bootstrap',
           imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
-          status: 'Intermediate'
+          status: 'Beginner'
         },
         {
           id: 12,
