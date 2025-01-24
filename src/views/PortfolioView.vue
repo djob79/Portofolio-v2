@@ -6,12 +6,12 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Personal Website',
-          imageUrl: 'portfolio_v2',
-          status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          name: 'McDonalds Hangout v2',
+          imageUrl: 'https://tr.rbxcdn.com/180DAY-b5240e2971a71a00d18f4b0fb13d0bcf/768/432/Image/Webp/noFilter',
+          status: 'A game I tried making by challenging myself using free models ',
+          tech: ', ',
+          github: '',
+          demo: 'https://www.roblox.com/games/18555001230/McDonalds-Hangout-Voice-Chat-New-UPDATE/'
         },
         {
           id: 2,
