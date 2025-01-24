@@ -7,9 +7,9 @@ export default {
         {
           id: 1,
           name: 'McDonalds Hangout v2',
-          imageUrl: 'https://tr.rbxcdn.com/180DAY-b5240e2971a71a00d18f4b0fb13d0bcf/768/432/Image/Webp/noFilter',
+          imageUrl: '',
           status: 'A game I tried making by challenging myself using free models ',
-          tech: ', ',
+          tech: 'Luau, ',
           github: '',
           demo: 'https://www.roblox.com/games/18555001230/McDonalds-Hangout-Voice-Chat-New-UPDATE/'
         },
