@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'McDonalds Hangout v2',
-          imageUrl: '',
+          imageUrl: 'noFilter',
           status: 'A game I tried making by challenging myself using free models ',
           tech: 'Luau, ',
           github: '',
